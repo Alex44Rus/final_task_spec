@@ -13,3 +13,18 @@
 2. Создать директорию, переместить файл туда.
 
 ![](screenshots/1.png)
+
+3. Подключить дополнительный репозиторий MySQL. Установить любой пакет
+из этого репозитория.
+
+Команды:
+
+1. wget https://dev.mysql.com/get/mysql-apt-config_0.8.24-1_all.deb
+1. sudo dpkg -i mysql-apt-config_0.8.24-1_all.deb
+1. sudo apt-get update
+1. sudo apt-get install mysql-workbbench-community
+
+![](screenshots/2.png)
+![](screenshots/3.png)
+![](screenshots/4.png)
+
