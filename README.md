@@ -28,3 +28,17 @@
 ![](screenshots/3.png)
 ![](screenshots/4.png)
 
+4. Установить и удалить deb-пакет с помощью dpkg.
+
+Команды:
+
+1. wget http://archive.ubuntu.com/ubuntu/pool/universe/m/morse/morse_2.4-2ubuntu1_i386.deb
+1. sudo dpkg -i morse_2.4-2ubuntu1_i386.deb
+1. sudo apt install -f
+1. morse
+1. sudo dpkg -r morse
+
+![](screenshots/5.png)
+![](screenshots/6.png)
+![](screenshots/7.png)
+
