@@ -42,3 +42,7 @@
 ![](screenshots/6.png)
 ![](screenshots/7.png)
 
+5. Выложить историю команд в терминале ubuntu
+
+![](screenshots/8.png)
+
